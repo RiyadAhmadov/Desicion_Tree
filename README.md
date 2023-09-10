@@ -2,7 +2,6 @@
 
 ![Decision Trees](https://i.ytimg.com/vi/ZVR2Way4nwQ/hqdefault.jpg)
 
-
 ## Introduction
 Decision trees are a widely used machine learning algorithm that is primarily used for classification and regression tasks. They are a popular choice due to their simplicity, interpretability, and effectiveness in a variety of domains.
 
@@ -49,10 +48,6 @@ To use decision trees effectively, follow these steps:
 
 ## Further Reading
 For a deeper understanding of decision trees and their practical applications, consider exploring additional resources such as textbooks, online courses, and academic papers on machine learning and decision tree algorithms.
-
-## License
-
-This project is provided under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
